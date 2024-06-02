@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Yili JIANG"
+title                    : "YJ"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -22,7 +22,7 @@ repository               : "CANlabGo/CANlabGo.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Yili JIANG"
+  name             : "YJ"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Atlanta, USA"
