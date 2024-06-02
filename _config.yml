@@ -22,11 +22,11 @@ repository               : "CANlabGo/CANlabGo.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Yili JIANG"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Atlanta, USA"
+  employer         : "University"
   uri              : # URL
   email            : "none@example.org" 
 
