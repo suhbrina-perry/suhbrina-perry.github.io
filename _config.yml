@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "YJ"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "YJ"
 description              : &description "personal description"
 url                      : https://CANlabGo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
