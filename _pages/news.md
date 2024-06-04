@@ -14,6 +14,7 @@ author_profile: true
 
 
 - [05/24] Our work "Leveraging Explainable AI for Actionable Insights in IoT Intrusion Detection" is accepted by conference SoSE 2024. Congrats Dr. Jiang!
+- [04/24] Dr. Jiang is invited to serve as guest editor for the journal Electronics_Special Issue [Challenges and Opportunities in Internet of Vehicles](https://www.mdpi.com/journal/electronics/special_issues/5MJHAE8NUK). Welcome to sumit your work!
 - [MM/24] Happy to serve on two-day NSF panel.
 - [03/24] Sabrina presented our research outcome DynaDetect in conference ISICN 2024.
 - [03/24] Our work "Poster: Machine Learning Based False Position Detection Using Data-to-Image Transformat" is accepted by IEEE MOST 2024. Congrats Xian! 
