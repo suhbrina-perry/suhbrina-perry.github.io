@@ -3,7 +3,9 @@
 {% if page.author and site.data.authors[page.author] %}
   {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.author %}
 {% endif %}
-
+img {
+  border-radius: 5%;
+}
 <div itemscope itemtype="http://schema.org/Person">
   <div class="author__avatar">
     
@@ -13,12 +15,7 @@
     	<img src="{{ author.avatar | prepend: "/images/" | prepend: base_path }}" class="author__avatar" alt="{{ author.name }}">
     {% endif %}
   </div>
-  .author__avatar {
-    vertical-align: middle;
-    width: 50px;
-    height: 50px;
-    border-radius: 80%;
-  }
+ 
 
   
   <div class="author__content">
