@@ -264,9 +264,9 @@ defaults:
   # _news
   - scope:
       path: ""
-      type: talks
+      type: news
     values:
-      layout: talk
+      layout: news
       author_profile: true
       share: true
 
