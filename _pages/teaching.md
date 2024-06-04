@@ -10,13 +10,13 @@ author_profile: true
 <br/>
 <br/>
 
-**
-** Courses at GSU **
+
+**Courses at GSU**
 
 - CSC 4222/6222 Fundermentals of Cybersecurity (24F)
 
 
-** Previous courses at UM (2022-2024) **
+**Previous courses at UM (2022-2024)**
 
 - CSCI 433/502 Algorithm and Data Structure Analysis
 - CSCI 692/596 Advanced Topics in Cybersecurity and Privacy
