@@ -15,7 +15,7 @@ author_profile: true
 - CSC 4222/6222 Fundermentals of Cybersecurity (24F)
 
 <br/>
-<br/>
+
 
 ### Previous courses at UM (2022-2024)
 
