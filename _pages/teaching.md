@@ -9,12 +9,8 @@ author_profile: true
 
 <br/>
 <br/>
-<br/>
-<br/>
-
-Courses at GSU
 ------
-
+**Courses at GSU**
 - CSC 4222/6222 Fundermentals of Cybersecurity (24F)
 
 <br/>
