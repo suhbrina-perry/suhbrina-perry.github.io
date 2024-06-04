@@ -24,7 +24,7 @@ author_profile: true
   
 ### 2023
 
-- [10/23] Congratulations Sabrian on winning the Three Minute Thesis (3MT) competition! 
+- [10/23] Congratulations Sabrina on winning the Three Minute Thesis (3MT) competition! 
 - [08/23] Welcome Shreyasi to join CAN lab!
 - [08/23] Welcome Ziyang to join CAN lab!
 - [08/23] Dr. Jiang is awareded Faculty Travel Grant. Thanks ORSP@UM!
