@@ -5,6 +5,7 @@ title: "Lab"
 author_profile: true
 ---
 
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -49,8 +50,8 @@ author_profile: true
     <div class="swiper-container">
         <div class="swiper-wrapper">
             <div class="swiper-slide"> <img src="/images/YJ.jpg" alt="Beijing Image 1"> </div>
-            <div class="swiper-slide"> <img src="/images/YJ2.jpg" alt="Beijing Image 2"> </div>
-            <div class="swiper-slide"> <img src="/images/YJ3.jpg" alt="Beijing Image 3"> </div>
+            <div class="swiper-slide"> <img src="/images/YJ.jpg" alt="Beijing Image 2"> </div>
+            <div class="swiper-slide"> <img src="/images/YJ.jpg" alt="Beijing Image 3"> </div>
         </div>
         <!-- Add Pagination -->
         <div class="swiper-pagination"></div>
@@ -70,21 +71,24 @@ author_profile: true
 
     <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
     <script>
-        var swiper = new Swiper('.swiper-container', {
-            loop: true,
-            autoplay: {
-                delay: 2500, // 自动滑动的时间间隔，单位为毫秒
-                disableOnInteraction: false, // 用户操作后是否禁止自动滑动
-            },
-            pagination: {
-                el: '.swiper-pagination',
-                clickable: true,
-            },
-            navigation: {
-                nextEl: '.swiper-button-next',
-                prevEl: '.swiper-button-prev',
-            },
+        document.addEventListener('DOMContentLoaded', function () {
+            var swiper = new Swiper('.swiper-container', {
+                loop: true,
+                autoplay: {
+                    delay: 2500, // 自动滑动的时间间隔，单位为毫秒
+                    disableOnInteraction: false, // 用户操作后是否禁止自动滑动
+                },
+                pagination: {
+                    el: '.swiper-pagination',
+                    clickable: true,
+                },
+                navigation: {
+                    nextEl: '.swiper-button-next',
+                    prevEl: '.swiper-button-prev',
+                },
+            });
         });
     </script>
 </body>
 </html>
+
