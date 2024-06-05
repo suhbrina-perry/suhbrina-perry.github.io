@@ -1,4 +1,5 @@
 ---
+layout: archive
 permalink: /CANlab/
 title: "Wlecom to CANlab!"
 author_profile: true
