@@ -10,12 +10,19 @@ author_profile: true
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>个人主页</title>
+    <title>Beijing Photo Carousel</title>
     <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css">
     <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            text-align: center;
+        }
         .swiper-container {
-            width: 100%;
+            width: 80%;
             height: 300px;
+            margin: 20px auto;
             position: relative;
         }
         .swiper-slide {
@@ -31,39 +38,34 @@ author_profile: true
             height: 100%;
             object-fit: cover;
         }
-        .swiper-button-next,
-        .swiper-button-prev {
-            color: #000; /* 设置箭头颜色 */
-            position: absolute;
-            top: 50%;
-            width: calc((100% - 80%) / 2); /* 控制箭头的位置，确保在图片两端 */
-            height: 50px;
-            margin-top: -25px;
-            z-index: 10;
-            cursor: pointer;
-        }
-        .swiper-button-next {
-            right: 0;
-            left: auto;
-        }
-        .swiper-button-prev {
-            left: 0;
-            right: auto;
+        .description {
+            margin: 20px auto;
+            width: 80%;
+            font-size: 18px;
         }
     </style>
 </head>
 <body>
     <div class="swiper-container">
         <div class="swiper-wrapper">
-            <div class="swiper-slide"> <img src="/images/YJ.jpg" alt="Image 1"> </div>
-            <div class="swiper-slide"> <img src="/images/YJ.jpg" alt="Image 2"> </div>
-            <div class="swiper-slide"> <img src="/images/ISICN24.jpg" alt="Image 3"> </div>
+            <div class="swiper-slide"> <img src="/images/YJ.jpg" alt="Beijing Image 1"> </div>
+            <div class="swiper-slide"> <img src="/images/YJ2.jpg" alt="Beijing Image 2"> </div>
+            <div class="swiper-slide"> <img src="/images/YJ3.jpg" alt="Beijing Image 3"> </div>
         </div>
         <!-- Add Pagination -->
         <div class="swiper-pagination"></div>
         <!-- Add Navigation -->
         <div class="swiper-button-next"></div>
         <div class="swiper-button-prev"></div>
+    </div>
+
+    <div class="description">
+        <p>
+            Beijing, the capital city of China, is a bustling metropolis that seamlessly blends ancient history with modernity.
+            From the majestic Great Wall to the historical Forbidden City, and the modern architectural marvels like the Bird's Nest,
+            Beijing offers a unique glimpse into China's past and its vibrant present. It's a city of cultural heritage, political significance,
+            and culinary delights.
+        </p>
     </div>
 
     <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
