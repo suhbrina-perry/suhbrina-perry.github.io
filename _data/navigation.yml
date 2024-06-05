@@ -3,6 +3,9 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "Home"
+    url: /home/
+
   - title: "News"
     url: /news/    
 
