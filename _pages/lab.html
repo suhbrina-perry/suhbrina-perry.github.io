@@ -9,13 +9,14 @@ author_profile: true
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=50px, initial-scale=0.8">
-    <title>Homepage</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>个人主页</title>
     <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css">
     <style>
         .swiper-container {
-            width: 50px;
-            height: 50px;
+            width: 100%;
+            height: 300px;
+            position: relative;
         }
         .swiper-slide {
             text-align: center;
@@ -30,14 +31,33 @@ author_profile: true
             height: 100%;
             object-fit: cover;
         }
+        .swiper-button-next,
+        .swiper-button-prev {
+            color: #000; /* 设置箭头颜色 */
+            position: absolute;
+            top: 50%;
+            width: calc((100% - 80%) / 2); /* 控制箭头的位置，确保在图片两端 */
+            height: 50px;
+            margin-top: -25px;
+            z-index: 10;
+            cursor: pointer;
+        }
+        .swiper-button-next {
+            right: 0;
+            left: auto;
+        }
+        .swiper-button-prev {
+            left: 0;
+            right: auto;
+        }
     </style>
 </head>
 <body>
     <div class="swiper-container">
         <div class="swiper-wrapper">
             <div class="swiper-slide"> <img src="/images/YJ.jpg" alt="Image 1"> </div>
-            <div class="swiper-slide"> <img src="/images/YJ2.jpg" alt="Image 2"> </div>
-            <div class="swiper-slide"> <img src="/images/YJ3.jpg" alt="Image 3"> </div>
+            <div class="swiper-slide"> <img src="/images/YJ.jpg" alt="Image 2"> </div>
+            <div class="swiper-slide"> <img src="/images/ISICN24.jpg" alt="Image 3"> </div>
         </div>
         <!-- Add Pagination -->
         <div class="swiper-pagination"></div>
@@ -50,7 +70,10 @@ author_profile: true
     <script>
         var swiper = new Swiper('.swiper-container', {
             loop: true,
-            
+            autoplay: {
+                delay: 2500, // 自动滑动的时间间隔，单位为毫秒
+                disableOnInteraction: false, // 用户操作后是否禁止自动滑动
+            },
             pagination: {
                 el: '.swiper-pagination',
                 clickable: true,
@@ -63,5 +86,3 @@ author_profile: true
     </script>
 </body>
 </html>
-
-
