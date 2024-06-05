@@ -9,7 +9,7 @@ author_profile: true
 <pr/>
 <pr/>
 
-- S. Gyawali, K. Sartipi, B. Van Ravesteyn, J. Huang and Y. Jiang, "Enhanced and Explainable Deep Learning-Based Intrusion Detection in IoT Networks," in 2023 IEEE Military Communications Conference (MILCOM), Boston, MA, USA, 2023, pp. 649-654.
+- Sohan Gyawali, Kaamran Sartipi, Benjamin Van Ravesteyn, Jiaqi Huang and Yili Jiang, "Enhanced and Explainable Deep Learning-Based Intrusion Detection in IoT Networks," in 2023 IEEE Military Communications Conference (MILCOM), Boston, MA, USA, 2023, pp. 649-654.
 - Yili Jiang, Kuan Zhang, Yi Qian, and Liang Zhou, “P2AE: Preserving Privacy, Accuracy, and Efficiency in Location-dependent Mobile Crowdsensing,” in IEEE Transactions on Mobile Computing, vol. 22, no. 4, pp. 2323-2339, 2023.
 - Yili Jiang, Kuan Zhang, Yi Qian, and Liang Zhou, “Anonymous and Efficient Authentication Scheme for Privacy-preserving Distributed Learning,” in IEEE Transactions on Information Forensics and Security, vol. 17, pp. 2227-2240, 2022.
 - Yili Jiang, Kuan Zhang, Yi Qian, and Rose Qingyang Hu, “Privacy-preserving Data Deduplication in Edge-assisted Mobile Crowdsensing,” in International Journal of Multimedia Intelligence and Security, 2022, 4(1): 1-19.
