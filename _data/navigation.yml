@@ -4,7 +4,10 @@ main:
 
   - title: "Home"
     url: /home/
-
+    
+  - title: "Lab"
+    url: /lab/
+    
   - title: "News"
     url: /news/    
 
