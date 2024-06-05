@@ -9,6 +9,7 @@ author_profile: true
 <pr/>
 <pr/>
 
+
 - Sabrina Perry, **Yili Jiang**, Fangtian Zhong and Chong Yu, "Detecting Poisoning Attacks with DynaDetect," in International Symposium on Intelligent Computing and Networking(ISICN 2024), San Juan, Puerto Rico, USA, March 2024. 
 - Sohan Gyawali, Kaamran Sartipi, Benjamin Van Ravesteyn, Jiaqi Huang and **Yili Jiang**, "Enhanced and Explainable Deep Learning-Based Intrusion Detection in IoT Networks," in 2023 IEEE Military Communications Conference (MILCOM), Boston, MA, USA, Octobor 2023.
 - **Yili Jiang**, Kuan Zhang, Yi Qian, and Liang Zhou, “P2AE: Preserving Privacy, Accuracy, and Efficiency in Location-dependent Mobile Crowdsensing,” in IEEE Transactions on Mobile Computing, vol. 22, no. 4, pp. 2323-2339, 2023.
