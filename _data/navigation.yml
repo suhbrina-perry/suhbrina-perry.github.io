@@ -5,8 +5,8 @@ main:
   - title: "Home"
     url: /home/
     
-  - title: "CANlab"
-    url: /CANlab/
+  - title: "lab"
+    url: /lab/
     
   - title: "News"
     url: /news/    
