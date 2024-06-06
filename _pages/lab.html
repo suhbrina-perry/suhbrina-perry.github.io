@@ -4,83 +4,55 @@ permalink: /lab/
 title: "Lab"
 author_profile: true
 ---
-
            
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>滑动条示例</title>
+<title>Scrolling Images</title>
 <style>
-  .slider-container {
-    width: 100%;
+  body {
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+  .image-container {
     overflow: hidden;
+    max-width: 600px;
+    max-height: 400px;
     position: relative;
   }
-  .slider {
+  .image-container img {
     width: 100%;
-    height: auto;
-    display: flex;
-    cursor: pointer;
-  }
-  .slider img {
-    width: 100%;
-    height: auto;
-    display: block;
-    object-fit: cover;
-  }
-  .slider-thumb {
-    width: 20px;
-    height: 20px;
-    background-color: #333;
-    border-radius: 50%;
+    height: 100%;
     position: absolute;
-    top: 50%;
-    transform: translateY(-50%);
-    cursor: pointer;
+    opacity: 0;
+    transition: opacity 0.5s ease-in-out;
+  }
+  .image-container img.active {
+    opacity: 1;
   }
 </style>
 </head>
 <body>
- 
-<div class="slider-container">
-  <div class="slider">
-    <img src="/images/YJ.jpg" alt="Image Slider">
-    <img src="/images/YJ.jpg" alt="Image Slider">
-    <img src="/images/YJ.jpg" alt="Image Slider">
-    <div class="slider-thumb"></div>
-  </div>
+<div class="image-container">
+  <img class="active" src="/images/YJ.jpg" alt="Image 1">
+  <img src="/images/YJ2.jpg" alt="Image 2">
+  <img src="/images/YJ3.jpg" alt="Image 3">
 </div>
  
 <script>
-  window.onload = function() {
-    var sliderContainer = document.querySelector('.slider-container');
-    var sliderThumb = document.querySelector('.slider-thumb');
-    var sliderWidth = sliderContainer.offsetWidth;
-    var thumbWidth = sliderThumb.offsetWidth;
- 
-    sliderContainer.addEventListener('mousedown', function(e) {
-      var startX = e.clientX - sliderThumb.offsetLeft;
-      function moveSlider(e) {
-        var x = e.clientX - startX;
-        if (x < 0) {
-          x = 0;
-        } else if (x > sliderWidth - thumbWidth) {
-          x = sliderWidth - thumbWidth;
-        }
-        sliderThumb.style.left = x + 'px';
-      }
- 
-      document.addEventListener('mousemove', moveSlider);
- 
-      sliderThumb.addEventListener('mouseup', function() {
-        document.removeEventListener('mousemove', moveSlider);
-      });
-    });
-  };
+  let currentIndex = 0;
+  const images = document.querySelectorAll('.image-container img');
+  setInterval(function() {
+    images[currentIndex].classList.remove('active');
+    currentIndex = (currentIndex + 1) % images.length;
+    images[currentIndex].classList.add('active');
+  }, 3000); // Change image every 3000 milliseconds (3 seconds)
 </script>
- 
 </body>
-</html>          
+</html>
