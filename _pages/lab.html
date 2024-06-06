@@ -4,94 +4,56 @@ permalink: /lab/
 title: "Lab"
 author_profile: true
 ---
-           
+
 <!DOCTYPE html>
-<html>
-	<head>
-		<meta charset="utf-8" />
-		<title></title>
-		<style>
-			body{
-				margin: 0 auto;
-				padding: 0 0;
-			}
-			#a1{/*外面的div，用来限制图片位置*/
-				overflow:hidden;/*溢出隐藏用*/
-				width: 400px;
-				border-radius: 20px;/*圆角*/
-				height: 168.664px;
-				/*这里布局中的话可以去查查我记得需要该自身的位置，懒得查直接写px坐标就行*/
-				position: fixed;/*把突变的位置放在中间*/
-				top:10%;
-				left: 10%;
-				/*box-shadow: 3px 5px 5px #656B79;阴影*/
-			}
-			#a2{/*里面的div用来调整轮播图*/
-				width: 4000px;
-				
-				position: relative;/*相对坐标方便调整图片*/
-				left: -250px;
-				animation-duration: 2s; /*动画播放的秒数*/
-				animation-iteration-count: infinite;/*动画无限循环播放*/
-				animation-name: a;/*动画名是example*/
-				
-			}
-			#a3{/*#a3==img*/
-				float: right;/*应该是左对齐吧我也忘了*/
-				/*display: inline-block;显示啥啥啥的，我也忘了具体是啥，去查查书吧，没有这个可能图片会竖着一排*/
-				width: 299px;
-				height: 168.664px;
-				padding: 0px 10px 0px 0px;/*图片之间的间隙*/
-				border-radius: 20px;/*圆角*/
-				
-				
-			}
-			
-			/*这里有几个都要算一下，都是负的是因为要从左向右移动图片*/
-			@keyframes a {/*@keyframes表示动画*/
-				0%   {
-					position: absolute;
-					left: -250px;}
-				15%,25%  {/*表示15%到25%之间做什么事*/
-					position: absolute;
-					left: -560px;
-				  }
-				40%,50%  {
-					position: absolute;
-					left: -870px;
-					
-				  }
-				65%,75%{
-					position: absolute;
-					left: -1180px;
-				  }
-				90%,99.9999999999999%{
-					/*99.9999999999999%到100%是为了能在非常短的时间切换到第一张图，以便达成一直向右的效果*/
-					position: absolute;
-					left: -1485px;
-				  }
-				100% {
-					position: absolute;
-					left: -250px;
-				  }
-			}
-			
-		</style>
-	</head>
-	<body>
-		<div id="a1">
-			<div id="a2">
-				<a href="#"><img id="a3" src="/images/YJ.jpg" ></a>
-				<a href="#"><img id="a3" src="/images/YJ2.jpg" ></a>
-				<a href="#"><img id="a3" src="/images/YJ3.jpg" ></a>
-				
-				<a href="#"><img id="a3" src="/images/YJ2.jpg" ></a>
-				
-				<a href="#"><img id="a3" src="/images/YJ.jpg" ></a>
-				<a href="#"><img id="a3" src="/images/YJ2.jpg" ></a>
-				<a href="#"><img id="a3" src="/images/YJ3.jpg" ></a>
-				
-			</div>
-		</div>
-	</body>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>个人主页</title>
+    <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css">
+    <style>
+        .swiper-container {
+            width: 100%;
+            height: 300px;
+        }
+        .swiper-slide {
+            text-align: center;
+            font-size: 18px;
+            background: #fff;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+    </style>
+</head>
+<body>
+    <div class="swiper-container">
+        <div class="swiper-wrapper">
+            <div class="swiper-slide"> <img src="/images/YJ.jpg" alt="Image 1"> </div>
+            <div class="swiper-slide"> <img src="/images/YJ2.jpg" alt="Image 2"> </div>
+            <div class="swiper-slide"> <img src="/images/YJ3.jpg" alt="Image 3"> </div>
+        </div>
+        <!-- Add Pagination -->
+        <div class="swiper-pagination"></div>
+        <!-- Add Navigation -->
+        <div class="swiper-button-next"></div>
+        <div class="swiper-button-prev"></div>
+    </div>
+
+    <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
+    <script>
+        var swiper = new Swiper('.swiper-container', {
+            loop: true,
+            pagination: {
+                el: '.swiper-pagination',
+                clickable: true,
+            },
+            navigation: {
+                nextEl: '.swiper-button-next',
+                prevEl: '.swiper-button-prev',
+            },
+        });
+    </script>
+</body>
 </html>
