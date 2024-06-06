@@ -6,53 +6,62 @@ author_profile: true
 ---
            
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Scrolling Images</title>
 <style>
-  body {
-    margin: 0;
-    height: 100vh;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    text-align: center;
-  }
-  .image-container {
+  .carousel {
     overflow: hidden;
-    max-width: 600px;
-    max-height: 400px;
+    width: 300px;
+    height: 200px;
     position: relative;
   }
-  .image-container img {
-    width: 100%;
-    height: 100%;
-    position: absolute;
-    opacity: 0;
-    transition: opacity 0.5s ease-in-out;
+ 
+  .carousel img {
+    width: 300px;
+    height: 200px;
+    display: none;
   }
-  .image-container img.active {
-    opacity: 1;
+ 
+  .carousel img.active {
+    display: block;
+  }
+ 
+  @-webkit-keyframes slide {
+    0% { opacity: 0; }
+    7% { opacity: 0; }
+    25% { opacity: 1; }
+    32% { opacity: 1; }
+    49% { opacity: 0; }
+    100% { opacity: 0; }
+  }
+ 
+  @keyframes slide {
+    0% { opacity: 0; }
+    7% { opacity: 0; }
+    25% { opacity: 1; }
+    32% { opacity: 1; }
+    49% { opacity: 0; }
+    100% { opacity: 0; }
+  }
+ 
+  .fade {
+    -webkit-animation-name: slide;
+    -webkit-animation-duration: 12s;
+    -webkit-animation-timing-function: steps(1), ease-in-out;
+    animation-name: slide;
+    animation-duration: 12s;
+    animation-timing-function: steps(1), ease-in-out;
+    animation-iteration-count: infinite;
   }
 </style>
 </head>
 <body>
-<div class="image-container">
-  <img class="active" src="/images/YJ.jpg" alt="Image 1">
-  <img src="/images/YJ2.jpg" alt="Image 2">
-  <img src="/images/YJ3.jpg" alt="Image 3">
+ 
+<div class="carousel">
+  <img src="/images/YJ.jpg" class="active fade">
+  <img src="/images/YJ2.jpg" class="fade">
+  <img src="/images/YJ3.jpg" class="fade">
 </div>
  
-<script>
-  let currentIndex = 0;
-  const images = document.querySelectorAll('.image-container img');
-  setInterval(function() {
-    images[currentIndex].classList.remove('active');
-    currentIndex = (currentIndex + 1) % images.length;
-    images[currentIndex].classList.add('active');
-  }, 3000); // Change image every 3000 milliseconds (3 seconds)
-</script>
 </body>
 </html>
