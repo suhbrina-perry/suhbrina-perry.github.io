@@ -11,12 +11,12 @@ author_profile: false
     <meta charset="UTF-8">
     <title></title>
     <style type="text/css">
-        .container {
+        .container{
             width: 800px;
             height: 640px;
             position: relative;
         }
-        .container-img {
+        .container-img{
             position: absolute;
             top: 0;
             left: 0;
@@ -26,7 +26,7 @@ author_profile: false
         .container-img:nth-child(1){
             opacity: 1
         }
-        .swiper-left {
+        .container-left{
             position: absolute;
             width: 35px;
             height: 70px;
@@ -36,11 +36,11 @@ author_profile: false
             text-align: center;
             font-size: 18px;
         }
-        .swiper-left:hover{
+        .container-left:hover{
             background-color:#00000050;
             color:#fff;
         }
-        .swiper-right {
+        .container-right{
             position: absolute;
             width: 35px;
             height: 70px;
@@ -50,7 +50,7 @@ author_profile: false
             text-align: center;
             font-size: 18px;
         }
-        .swiper-right:hover{
+        .container-right:hover{
             background-color:#00000050;
             color:#fff;
         }
@@ -59,11 +59,11 @@ author_profile: false
 </head>
 <body>
     <div class="container">
-        <div class="container-img"> <img src="/images/YJ.jpg" width="800" height="640"> </div>
-        <div class="container-img"> <img src="/images/YJ2.jpg" width="800" height="640"> </div>
-        <div class="container-img"> <img src="/images/YJ3.jpg" width="800" height="640"> </div>      
-        <div class="swiper-left">&lt</div>
-        <div class="swiper-right">&gt</div>
+        <div class="container-img"><img src="/images/YJ.jpg" width="800" height="640"></div>
+        <div class="container-img"><img src="/images/YJ2.jpg" width="800" height="640"></div>
+        <div class="container-img"><img src="/images/YJ3.jpg" width="800" height="640"></div>      
+        <div class="container-left">&lt;</div>
+        <div class="container-right">&gt;</div>
         <div class="container-index">
             <ul>
                 <li></li>
@@ -87,11 +87,8 @@ author_profile: false
                    $(".container-img").css("opacity","0");
                    $(".container-img").eq(index).css("opacity","1")
                }
-           },2000
-                      )
-       }
-         
-           
+           },2000)
+       }     
        )
     </script>
 </body>
