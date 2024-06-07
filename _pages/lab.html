@@ -14,10 +14,14 @@ author_profile: true
     <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css">
     <style>
         .swiper-container {
-            width: 100%;
-            height: 300px;
+            width: 800px;
+            height: 640px;
+            position: relative;
         }
         .swiper-slide {
+            position: absolute;
+            top: 0;
+            left: 0;
             text-align: center;
             font-size: 18px;
             background: #fff;
@@ -25,20 +29,49 @@ author_profile: true
             justify-content: center;
             align-items: center;
         }
+        .swiper-left {
+            position: absolute;
+            width: 35px;
+            height: 70px;
+            background-color:#00000050;
+            color:#ccc;
+            top: 285px;
+            text-align: center;
+            font-size: 18px;
+        }
+        .swiper-left:hover{
+            background-color:#00000050;
+            color:#fff;
+        }
+        .swiper-right {
+            position: absolute;
+            width: 35px;
+            height: 70px;
+            background-color:#00000050;
+            color:#ccc;
+            top: 285px;
+            text-align: center;
+            font-size: 18px;
+        }
+        .swiper-right:hover{
+            background-color:#00000050;
+            color:#fff;
+        }
+        
     </style>
 </head>
 <body>
     <div class="swiper-container">
         <div class="swiper-wrapper">
-            <div class="swiper-slide"> <img src="/images/YJ.jpg" alt="Image 1"> </div>
-            <div class="swiper-slide"> <img src="/images/YJ2.jpg" alt="Image 2"> </div>
-            <div class="swiper-slide"> <img src="/images/YJ3.jpg" alt="Image 3"> </div>
+            <div class="swiper-slide"> <img src="/images/YJ.jpg" width="800" height="640"> </div>
+            <div class="swiper-slide"> <img src="/images/YJ2.jpg" width="800" height="640"> </div>
+            <div class="swiper-slide"> <img src="/images/YJ3.jpg" width="800" height="640"> </div>
         </div>
         <!-- Add Pagination -->
         <div class="swiper-pagination"></div>
         <!-- Add Navigation -->
-        <div class="swiper-button-next"></div>
-        <div class="swiper-button-prev"></div>
+        <div class="swiper-left">&lt</div>
+        <div class="swiper-right">&gt</div>
     </div>
 
     <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
