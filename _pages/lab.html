@@ -111,6 +111,19 @@ author_profile: false
                    $(".container-img").eq(index).css("opacity","1");
                }
            },2000)
+           $(".container-left").click(function(){
+               if(index==0){
+                   index=$(".container-img").length-1;
+                   $(".container-img").css("opacity","0");
+                   $(".container-img").eq(index).css("opacity","1");
+               }else{
+                   index--;
+                   $(".container-img").css("opacity","0");
+                   $(".container-img").eq(index).css("opacity","1");
+               }
+           })
+           
+           
        }     
        )
     </script>
