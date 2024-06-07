@@ -111,12 +111,16 @@ author_profile: false
                    $(".container-img").eq(index).css("opacity","1");
                }
            },2000)
-           $(".container-left").click(function(){
+           $(document).ready(function(){
+             $(".container-left").click(function(){
                alert(1);
+            });  
            });
-           $(".container-right").click(function(){
+           $(document).ready(function(){
+             $(".container-right").click(function(){
                alert(1);
-           }) ;   
+            });  
+           }); 
        })
     </script>
 </body>
