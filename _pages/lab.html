@@ -16,16 +16,14 @@ author_profile: false
             height: 640px;
             position: relative;
         }
-        .swiper-slide {
+        .container-img {
             position: absolute;
             top: 0;
             left: 0;
-            text-align: center;
-            font-size: 18px;
-            background: #fff;
-            display: flex;
-            justify-content: center;
-            align-items: center;
+            opacity: 0;
+        }
+        .container-img:nth-child(1){
+            opacity: 1
         }
         .swiper-left {
             position: absolute;
@@ -60,26 +58,40 @@ author_profile: false
 </head>
 <body>
     <div class="container">
-        <div class="swiper-slide"> <img src="/images/YJ.jpg" width="800" height="640"> </div>
-        <div class="swiper-slide"> <img src="/images/YJ2.jpg" width="800" height="640"> </div>
-        <div class="swiper-slide"> <img src="/images/YJ3.jpg" width="800" height="640"> </div>      
+        <div class="container-img"> <img src="/images/YJ.jpg" width="800" height="640"> </div>
+        <div class="container-img"> <img src="/images/YJ2.jpg" width="800" height="640"> </div>
+        <div class="container-img"> <img src="/images/YJ3.jpg" width="800" height="640"> </div>      
         <div class="swiper-left">&lt</div>
         <div class="swiper-right">&gt</div>
+        <div class="container-index">
+            <ul>
+                <li></li>
+                <li></li>
+                <li></li>
+            </ul>
+        </div>
     </div>
 
-    <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
-    <script>
-        var swiper = new Swiper('.swiper-container', {
-            loop: true,
-            pagination: {
-                el: '.swiper-pagination',
-                clickable: true,
-            },
-            navigation: {
-                nextEl: '.swiper-button-next',
-                prevEl: '.swiper-button-prev',
-            },
-        });
+    <script type="text/javascript" src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script type="text/javascript">
+       $(function(){
+           var index=0;
+           setInterval(fuffnction(){
+               if(index==$(".container-img").length()-1){
+                   index=0;
+                   $(".container-img").css("opacity","0");
+                   $(".container-img").eq(index).css("opacity","1")
+               }else{
+                   index++;
+                   $(".container-img").css("opacity","0");
+                   $(".container-img").eq(index).css("opacity","1")
+               }
+           },2000
+                      )
+       }
+         
+           
+       )
     </script>
 </body>
 </html>
