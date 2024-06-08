@@ -89,9 +89,9 @@ author_profile: false
         <div class="container-right">&gt;</div>
         <div class="container-index">
             <ul>
-                <li></li>
-                <li></li>
-                <li></li>
+                <li class="button"></li>
+                <li class="button"></li>
+                <li class="button"></li>
             </ul>
         </div>
     </div>
@@ -111,12 +111,11 @@ author_profile: false
                    $(".container-img").eq(index).css("opacity","1");
                }
            },2000) 
-         
-           $(document).ready(function(){
-             $(".container-right").click(function(){
+          
+           $(".button").click(function(){
                alert(1);
-            });  
-           }); 
+           })
+           
        })
     </script>
 </body>
