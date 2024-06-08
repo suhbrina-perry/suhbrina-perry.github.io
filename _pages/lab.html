@@ -100,9 +100,10 @@ author_profile: false
     <script type="text/javascript">
        $(function(){
            var index=0;
+           var f;
            timingM();
            function timingM(){
-               var f=setInterval(function(){
+               f=setInterval(function(){
                    if(index==$(".container-img").length-1){
                        index=0;
                        $(".container-img").css("opacity","0");
