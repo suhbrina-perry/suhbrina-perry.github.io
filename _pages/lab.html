@@ -96,7 +96,7 @@ author_profile: false
         </div>
     </div>
 
-    <script type="text/javascript" src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+    <script type="text/javascript" src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
     <script type="text/javascript">
        $(function(){
            var index=0;
@@ -113,7 +113,10 @@ author_profile: false
            },2000) 
           
            $(".button").click(function(){
-               alert(1);
+               var indexx=$(this).index();
+               index=indexx;
+               $(".container-img").css("opacity","0");
+               $(".container-img").eq(index).css("opacity","1");
            })
            
        })
