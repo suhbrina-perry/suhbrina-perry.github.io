@@ -63,8 +63,8 @@
   padding-top: 1em;
 
   ul {
-    float: right;
-    margin-right: 0;
+    
+    margin: 0;
     padding: 0;
     list-style-type: none;
     font-family: $sans-serif;
@@ -320,7 +320,7 @@
   font-size: 1.25rem;
 
   ul {
-    
+    float: right;
     margin-bottom: 1em;
   }
 
