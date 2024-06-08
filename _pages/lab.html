@@ -147,7 +147,14 @@ author_profile: false
                }
            });    
 
-           
+            $(".button").click(function(){
+                clearInterval(f);
+                var indexx=$(this).index();
+                index=indexx;
+                $(".container-img").css("opacity","0");
+                $(".container-img").eq(index).css("opacity","1");
+                timingM();
+           })
        });
     </script>
 </body>
