@@ -5,7 +5,7 @@ main:
   - title: "Home"
     url: /home/
     
-  - title: "lab"
+  - title: "Lab"
     url: /lab/
     
   - title: "News"
