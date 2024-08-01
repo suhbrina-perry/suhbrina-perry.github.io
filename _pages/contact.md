@@ -1,10 +1,8 @@
 ---
-permalink: /Contact/
+layout: archive
 title: "Contact"
+permalink: /contact/
 author_profile: true
-redirect_from: 
-  - /Contact/
-  - /Contact.html
 ---
 
 Dr. Yili Jiang, Ph.D.  
