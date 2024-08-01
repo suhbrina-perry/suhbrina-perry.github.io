@@ -17,7 +17,7 @@ author_profile: true
 <br/>
 
 
-### Previous courses at UM (2022-2024)
+### Previous courses at OleMiss (2022-2024)
 
 
 - CSCI 433/502 Algorithm and Data Structure Analysis
