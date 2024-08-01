@@ -15,5 +15,5 @@ I am always looking for self-motivated students with strong interests in researc
   Please email me your CV, transcript, and sample publications (if any) before our meeting. If you are intertested in doing thesis under my supervision, please contact me at least 9 months before your graduation.
 - ### Undergraduate students
   Please email me your CV, transcript, and sample publications (if any) before our meeting. If you are intertested in doing capstone project under my supervision, please contact me at least 9 months before your graduation.
-- ### Visiting scholars
+- ### Visiting scholars/Research intern
   We always welcome domestic high school students and international researchers who are interested in visiting our lab. Positions of summer research intern and long/short-term visiting scholars are available. Please email me your CV and any materials that are helpful for your application.  
