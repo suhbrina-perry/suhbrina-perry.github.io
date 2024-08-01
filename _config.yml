@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "YJ"
+title                    : "Yili Jiang"
 title_separator          : "-"
-name                     : &name "YJ"
+name                     : &name "Yili Jiang"
 description              : &description "personal description"
 url                      : https://CANlabGo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -28,7 +28,7 @@ author:
   location         : "Atlanta, USA"
   employer         : "University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "yjiang27@gsu.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
