@@ -7,7 +7,7 @@ redirect_from:
   - /joinus.html
 ---
      
-I am always looking for self-motivated students with strong interests in research. If you are interested, please email Dr. Jiang (yjiang27@gsu.edu) or stop by her office following the instructions below. 
+I am always looking for self-motivated students with strong interests in research. If you are interested, please email Dr. Jiang <font color="#9900FF">(yjiang27@gsu.edu)</font> or stop by her office following the instructions below. 
 
 - ### Ph.D. students
   Please email me your CV, transcript, GRE score, TOEFL/IELTS score (if applicable), and sample publications (if any) before our meeting.
