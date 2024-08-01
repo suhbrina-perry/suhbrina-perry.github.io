@@ -14,6 +14,10 @@ author_profile: true
 
 ### 2024
 
+- [07/24] Our work "Enhancing Malware Classification via Self-Similarity Techniques" is accepted by IEEE Transactions on Information Forensics and Security. Congrats Dr. Jiang!
+- [07/24] Our work "Semi-supervised Federated Learning for Misbehavior Detection of BSMs in Vehicular Networks" is accepted by conference VTC2024-Fall. Congrats Dr. Jiang!
+- [MM/24] Happy to serve on two-day NSF panel.
+- [MM/24] Happy to serve on DOE panel.
 - [05/24] Our work "Leveraging Explainable AI for Actionable Insights in IoT Intrusion Detection" is accepted by conference SoSE 2024. Congrats Dr. Jiang!
 - [05/24] Dr. Jiang attended NSF SaTC Aspiring PI Workshop in Chicago. 
 - [04/24] Dr. Jiang attended NSF CISE CAREER workshop in Washington, D.C..
@@ -42,5 +46,5 @@ author_profile: true
 ### 2022
 
 - [08/22] Welcome Sabrina to join CAN lab!
-- [08/22] The CAN lab is funded!
+- [08/22] The CAN lab is founded!
 
