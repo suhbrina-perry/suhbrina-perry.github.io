@@ -22,7 +22,7 @@ repository               : "CANlabGo/CANlabGo.github.io"
 author:
   # Biographic information
   avatar           : "YJ3.jpg"
-  name             : "Yili Jiang"
+  name             : # "Yili Jiang"
   pronouns         : # example: "she/her"  
   bio              : #"Short biography for the left-hand sidebar"
   location         : "Atlanta, USA"
