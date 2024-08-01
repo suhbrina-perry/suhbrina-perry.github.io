@@ -22,11 +22,11 @@ repository               : "CANlabGo/CANlabGo.github.io"
 author:
   # Biographic information
   avatar           : "YJ3.jpg"
-  name             : "YJ"
+  name             : "Yili Jiang"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : #"Short biography for the left-hand sidebar"
   location         : "Atlanta, USA"
-  employer         : "University"
+  employer         : "Georgia State University"
   uri              : # URL
   email            : "yjiang27@gsu.edu" 
 
