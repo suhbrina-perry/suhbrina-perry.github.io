@@ -20,7 +20,7 @@ author_profile: true
 ### Previous courses at OleMiss (2022-2024)
 
 
-- CSCI 433/502 Algorithm and Data Structure Analysis (22F,23F)
+- CSCI 433/502 Algorithm and Data Structure Analysis (22F, 23F)
 - CSCI 692/596 Advanced Topics in Cybersecurity and Privacy (22F)
 - CSCI 426 System Security (23S, 24S)
 - CSCI 581 Introduction to Cryptography (23F)
