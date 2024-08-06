@@ -18,6 +18,7 @@ author_profile: true
 - [07/24] Our work "Semi-supervised Federated Learning for Misbehavior Detection of BSMs in Vehicular Networks" is accepted by conference VTC2024-Fall. Congrats Dr. Jiang!
 - [MM/24] Happy to serve on two-day NSF panel.
 - [MM/24] Happy to serve on DOE panel.
+- [MM/24] Happy to serve on two-day NSF panel.
 - [05/24] Our work "Leveraging Explainable AI for Actionable Insights in IoT Intrusion Detection" is accepted by conference SoSE 2024. Congrats Dr. Jiang!
 - [05/24] Dr. Jiang attended NSF SaTC Aspiring PI Workshop in Chicago. 
 - [04/24] Dr. Jiang attended NSF CISE CAREER workshop in Washington, D.C..
