@@ -12,6 +12,10 @@ author_profile: true
 <pr/>
 
 [* indicates student supervised by me.]
+
+- F. Zhong, Q. Hu, **Y. Jiang**, J. Huang, C. Zhang and D. Wu, "Enhancing Malware Classification via Self-Similarity Techniques," in IEEE Transactions on Information Forensics and Security, vol. 19, pp. 7232-7244, 2024.
+- S. Gyawali, J. Huang and **Y. Jiang**, "Leveraging Explainable AI for Actionable Insights in IoT Intrusion Detection," 2024 19th Annual System of Systems Engineering Conference (SoSE), Tacoma, WA, USA, 2024, pp. 92-97.
+- Xian Chen*, **Yili Jiang**, Jiaqi Huang, and Sohan Gyawali, "Poster: Machine Learning Based False Position Detection Using Data-to-Image Transformation," In 2024 IEEE International Conference on Mobility, Operations, Services and Technologies (IEEE MOST), pp. 286-287, 2024.
 - Sabrina Perry*, **Yili Jiang**, Fangtian Zhong and Chong Yu, "Detecting Poisoning Attacks with DynaDetect," in International Symposium on Intelligent Computing and Networking(ISICN 2024), San Juan, Puerto Rico, USA, March 2024. 
 - Sohan Gyawali, Kaamran Sartipi, Benjamin Van Ravesteyn, Jiaqi Huang and **Yili Jiang**, "Enhanced and Explainable Deep Learning-Based Intrusion Detection in IoT Networks," in 2023 IEEE Military Communications Conference (MILCOM), Boston, MA, USA, Octobor 2023.
 - **Yili Jiang**, Kuan Zhang, Yi Qian, and Liang Zhou, “P2AE: Preserving Privacy, Accuracy, and Efficiency in Location-dependent Mobile Crowdsensing,” in IEEE Transactions on Mobile Computing, vol. 22, no. 4, pp. 2323-2339, 2023.
