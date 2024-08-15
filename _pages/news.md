@@ -36,7 +36,7 @@ author_profile: true
 - [08/23] Welcome Shreyasi to join CAN lab!
 - [08/23] Welcome Ziyang to join CAN lab!
 - [08/23] Dr. Jiang is awareded Faculty Travel Grant. Thanks ORSP@UM!
-- [07/23] Dr. Jiang will serve as Tutoprial Co-chair for ISICN 2024.
+- [07/23] Dr. Jiang will serve as Tutorial Co-chair for ISICN 2024.
 - [07/23] Our work "Enhanced and Explainable Deep Learning-Based Intrusion Detection in IoT Networks" is accepted by IEEE MILCOM 2024. Congrats Dr. Jiang!
 - [06/23] Xian's research is funded by IDS fellowship (12-month). Congrats Xian!
 - [06/23] Sabrina's research is funded by IDS fellowship (6-month). Congrats Sabrina! 
