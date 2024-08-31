@@ -14,6 +14,7 @@ author_profile: true
 
 ### 2024
 
+- [08/24] Dr. Jiang delivered a research talk "Security and Privacy in AIoT" in NSF Symposium @ GSU!
 - [07/24] Our work "Enhancing Malware Classification via Self-Similarity Techniques" is accepted by IEEE Transactions on Information Forensics and Security. Congrats Dr. Jiang!
 - [07/24] Our work "Semi-supervised Federated Learning for Misbehavior Detection of BSMs in Vehicular Networks" is accepted by conference VTC2024-Fall. Congrats Dr. Jiang!
 - [MM/24] Happy to serve on two-day NSF panel.
