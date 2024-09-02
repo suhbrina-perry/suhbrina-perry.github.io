@@ -26,6 +26,7 @@ author_profile: true
 - [03/24] Dr. Jiang is awarded NSF Travel Grant. Thanks NSF!
 - [04/24] Dr. Jiang is invited to serve as guest editor for the journal Electronics, Special Issue [Challenges and Opportunities in Internet of Vehicles](https://www.mdpi.com/journal/electronics/special_issues/5MJHAE8NUK). Welcome to sumit your work!
 - [MM/24] Happy to serve on two-day NSF panel.
+- [03/24] Dr.Jiang received 2014 ISICN Outstanding Service Award.
 - [03/24] Sabrina presented our research outcome DynaDetect in conference ISICN 2024.
 - [03/24] Our work "Poster: Machine Learning Based False Position Detection Using Data-to-Image Transformation" is accepted by IEEE MOST 2024. Congrats Xian! 
 - [01/24] Our paper "Detecting Data Poisoning Attacks with Dynamic KNN" is accepted by ISICN 2024! Congrats Sabrina!
