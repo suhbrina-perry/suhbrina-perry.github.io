@@ -14,7 +14,7 @@ author_profile: true
 
 ### 2024
 
-- [09/24] Dr. Jiang will serve TP Co-chair for [ISICN2025](https://www.isicn.org/2025/). Welcome to submit your work!
+- [09/24] Dr. Jiang will serve as TP Co-chair for [ISICN2025](https://www.isicn.org/2025/). Welcome to submit your work!
 - [09/24] Our work "DynaDetect2.0: Improving Detection Accuracy of Data Poisoning Attacks" is accepted by IEEE CARS 2024. Congrats Sabrina!
 - [08/24] Dr. Jiang delivered a research talk "Security and Privacy in AIoT" in NSF Symposium at UGA! 
 - [07/24] Our work "Enhancing Malware Classification via Self-Similarity Techniques" is accepted by IEEE Transactions on Information Forensics and Security. Congrats Dr. Jiang!
