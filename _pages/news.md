@@ -12,7 +12,7 @@ author_profile: true
 
 
 ### 2025
-- [02/25] Paper on intrusion detection in IoT is accepted by ISICN25. Congrats Dr. Jiang!
+- [02/25] Paper on intrusion detection in IoT is accepted by ISICN25. Congrats Dr. Jiang! 
 - [02/25] Paper on defending backdoor attacks is accepted by ISICN25. Congrats Ziyang!
 - [01/25] Happy New Year!
 ### 2024
