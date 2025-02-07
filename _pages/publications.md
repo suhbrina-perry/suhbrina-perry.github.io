@@ -13,6 +13,8 @@ author_profile: true
 
 [* indicates student supervised by me.]
 
+- S. Perry*, **Y. Jiang**, F. Zhong, J. Huang and S. Gyawali, "DynaDetect2.0: Improving Detection Accuracy of Data Poisoning Attacks," 2024 Cyber Awareness and Research Symposium (CARS), Grand Forks, ND, USA, 2024, pp. 1-8. **Overall Best Paper Award**
+- J. Huang, **Y. Jiang**, S. Gyawali, Z. Zhou and F. Zhong, "Semi-supervised Federated Learning for Misbehavior Detection of BSMs in Vehicular Networks," 2024 IEEE 100th Vehicular Technology Conference (VTC2024-Fall), Washington, DC, USA, 2024, pp. 1-6.
 - F. Zhong, Q. Hu, **Y. Jiang**, J. Huang, C. Zhang and D. Wu, "Enhancing Malware Classification via Self-Similarity Techniques," in IEEE Transactions on Information Forensics and Security, vol. 19, pp. 7232-7244, 2024.
 - S. Gyawali, J. Huang and **Y. Jiang**, "Leveraging Explainable AI for Actionable Insights in IoT Intrusion Detection," 2024 19th Annual System of Systems Engineering Conference (SoSE), Tacoma, WA, USA, 2024, pp. 92-97.
 - Xian Chen*, **Yili Jiang**, Jiaqi Huang, and Sohan Gyawali, "Poster: Machine Learning Based False Position Detection Using Data-to-Image Transformation," In 2024 IEEE International Conference on Mobility, Operations, Services and Technologies (IEEE MOST), pp. 286-287, 2024.
