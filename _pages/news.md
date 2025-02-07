@@ -16,8 +16,8 @@ author_profile: true
 - [02/25] Dr.Jiang is invited to serve TPC for WASA2025.
 - [02/25] Paper on intrusion detection in IoT is accepted by ISICN25. Congrats Dr. Jiang! 
 - [02/25] Paper on defending backdoor attacks is accepted by ISICN25. Congrats Ziyang!
-<!-- - [01/25] Dr.Jiang attended NSF NeTS early-career PI meetings.-->
 - [01/25] Happy New Year!
+<!-- - [01/25] Dr.Jiang attended NSF NeTS early-career PI meetings.-->
 ### 2024
 - [12/24] Dr. Jiang delivered an invited research talk "AI-driven Misbehavior Detection in IoV" @ SVCSI. <!--(https://www.svcsi.org/events-1/webinar-ai-driven-misbehavior-detection-in-iov-efficiency-distribution-and-transparency)-->
 - [10/24] Our paper "DynaDetect2.0: Improving Detection Accuracy of Data Poisoning Attacks" is awarded the "Overall Best Paper" in IEEE CARS 2024! Congrats Sabrina and all our co-authors!
