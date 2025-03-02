@@ -13,7 +13,8 @@ author_profile: true
 
 ### 2025
 <!-- - [02/25] Dr.Jiang is invited to serve on NSF Panel.-->
-- [02/25] Dr.Jiang is invited to serve TPC for WASA2025.
+- [03/25] Paper on Generative-AI in Metaverse is accepted by IEEE Network. Congrats Dr. Jiang!
+- [02/25] Dr. Jiang is invited to serve TPC for WASA2025.
 - [02/25] Paper on intrusion detection in IoT is accepted by ISICN25. Congrats Dr. Jiang! 
 - [02/25] Paper on defending backdoor attacks is accepted by ISICN25. Congrats Ziyang!
 - [01/25] Happy New Year!
