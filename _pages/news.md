@@ -12,7 +12,12 @@ author_profile: true
 
 
 ### 2025
-<!-- - [02/25] Dr.Jiang is invited to serve on NSF Panel.-->
+<!-- - [03/25] Happy to serve on NSF Panel.-->
+- [03/25] Poster on vehicle security is accepted by SecureTrans @ IEEE S&P 2025. Congrats!  
+- [03/25] Work on vehicle security is accepted by SecureTrans @ IEEE S&P 2025. Congrats!  
+- [03/25] Paper on decentralized Federated Learning is accpeted by ACMSE2025. Congrats Xian!
+- [03/25] Dr. Jiang is invited to serve TPC for IEEE CNS 2025.
+- [03/25] Ziyang presented our work @ ISICN25 in San Juan, Puerto Rico!
 - [03/25] Paper on Generative-AI in Metaverse is accepted by IEEE Network. Congrats Dr. Jiang!
 - [02/25] Dr. Jiang is invited to serve TPC for WASA2025.
 - [02/25] Paper on intrusion detection in IoT is accepted by ISICN25. Congrats Dr. Jiang! 
