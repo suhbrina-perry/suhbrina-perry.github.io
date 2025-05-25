@@ -17,7 +17,7 @@ author_profile: true
 - [05/25] Happy to serve on DoE Panel
 - [06/25] Happy to serve on NSF Panel (Epsore)
 -->
-- [05/25] Won the Best Poster Award in SecureTrans @ IEEE S&P 2025. Congrats!
+- [05/25] Win the Best Poster Award in SecureTrans @ IEEE S&P 2025. Congrats!
 - [04/25] Sabrina Successfully defended her PhD dissertation. Congrats Sabrina!
 - [03/25] Poster on vehicle security is accepted by SecureTrans @ IEEE S&P 2025. Congrats!  
 - [03/25] Work on vehicle security is accepted by SecureTrans @ IEEE S&P 2025. Congrats!  
