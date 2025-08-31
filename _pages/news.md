@@ -91,7 +91,7 @@ author_profile: true
 <!-- 
  ### 2024
  - [12/24] Dr. Jiang delivered an invited research talk "AI-driven Misbehavior Detection in IoV" @ SVCSI. <!--(https://www.svcsi.org/events-1/webinar-ai-driven-misbehavior-detection-in-iov-efficiency-distribution-and-transparency)-->
- - [10/24] Our paper "DynaDetect2.0: Improving Detection Accuracy of Data Poisoning Attacks" is awarded the "Overall Best Paper" in IEEE CARS 2024! Congrats Sabrina and all our co-authors!  
+ - [10/24] Our paper "DynaDetect2.0: Improving Detection Accuracy of Data Poisoning Attacks" is awarded the "Overall Best Paper" in IEEE CARS 2024! Congrats Sabrina and all our co-authors! 
  - [09/24] Dr. Jiang will serve as TP Co-chair for [ISICN2025](https://www.isicn.org/2025/). Welcome to submit your work!  
  - [09/24] Our work "DynaDetect2.0: Improving Detection Accuracy of Data Poisoning Attacks" is accepted by IEEE CARS 2024. Congrats Sabrina!  
  - [08/24] Dr. Jiang delivered a research talk "Security and Privacy in AIoT" in NSF Symposium at UGA!   
@@ -112,7 +112,6 @@ author_profile: true
  - [03/24] Our work "Poster: Machine Learning Based False Position Detection Using Data-to-Image Transformation" is accepted by IEEE MOST 2024. Congrats Xian!   
  - [01/24] Our paper "Detecting Data Poisoning Attacks with Dynamic KNN" is accepted by ISICN 2024! Congrats Sabrina!  
  - [01/24] Our summer undergraduate research project is funded by SURGG grant (this project is collabrated with Dr. Yi Hua frorm Dept of Biomedical Engineering). Thanks ORSP@UM!  
-
 ### 2023
 - [10/23] Congratulations Sabrina on winning the Three Minute Thesis (3MT) competition! 
 - [08/23] Welcome Shreyasi to join CAN lab!
@@ -125,7 +124,6 @@ author_profile: true
 - [MM/23] Happy to serve on two-day NSF panel. 
 - [02/23] Our research is funded by IDS grant. Congrats Dr. Jiang!
 - [01/23] Welcome Xian to Join CAN lab!
-
 ### 2022
 - [08/22] Welcome Sabrina to join CAN lab!
 - [08/22] The CAN lab is founded!--> 
