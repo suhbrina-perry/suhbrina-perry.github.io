@@ -128,5 +128,5 @@ author_profile: true
 
 ### 2022
 - [08/22] Welcome Sabrina to join CAN lab!
-- [08/22] The CAN lab is founded!
- --> 
+- [08/22] The CAN lab is founded!--> 
+ 
