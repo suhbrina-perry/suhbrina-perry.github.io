@@ -63,6 +63,37 @@ author_profile: true
 
 </details>
 
+<details>
+  <summary>more</summary>
+
+### 2024
+<ul>
+  <li>[12/24] Dr. Jiang delivered an invited research talk "AI-driven Misbehavior Detection in IoV" @ SVCSI.</li>
+  <li>[10/24] Our paper "DynaDetect2.0: Improving Detection Accuracy of Data Poisoning Attacks" is awarded the "Overall Best Paper" in IEEE CARS 2024! Congrats Sabrina and all our co-authors!</li>
+  <li>[09/24] Dr. Jiang will serve as TP Co-chair for <a href="https://www.isicn.org/2025/">ISICN2025</a>. Welcome to submit your work!</li>
+  <li>[09/24] Our work "DynaDetect2.0: Improving Detection Accuracy of Data Poisoning Attacks" is accepted by IEEE CARS 2024. Congrats Sabrina!</li>
+  <li>[08/24] Dr. Jiang delivered a research talk "Security and Privacy in AIoT" in NSF Symposium at UGA!</li>
+  <li>[07/24] Our work "Enhancing Malware Classification via Self-Similarity Techniques" is accepted by IEEE Transactions on Information Forensics and Security. Congrats Dr. Jiang!</li>
+  <li>[07/24] Our work "Semi-supervised Federated Learning for Misbehavior Detection of BSMs in Vehicular Networks" is accepted by IEEE VTC2024-Fall. Congrats Dr. Jiang!</li>
+  <li>[MM/24] Happy to serve on NSF panel.</li>
+  <li>[MM/24] Happy to serve on DOE panel.</li>
+  <li>[MM/24] Happy to serve on NSF panel.</li>
+  <li>[05/24] Our work "Leveraging Explainable AI for Actionable Insights in IoT Intrusion Detection" is accepted by conference SoSE 2024. Congrats Dr. Jiang!</li>
+  <li>[05/24] Dr. Jiang attended NSF SaTC Aspiring PI Workshop in Chicago.</li>
+  <li>[04/24] Dr. Jiang attended NSF CISE CAREER workshop in Washington, D.C..</li>
+  <li>[03/24] Dr. Jiang is awarded NSF Travel Grant. Thanks NSF!</li>
+  <li>[04/24] Dr. Jiang is invited to serve as guest editor for the journal Electronics, Special Issue <a href="https://www.mdpi.com/journal/electronics/special_issues/5MJHAE8NUK">Challenges and Opportunities in Internet of Vehicles</a>. Welcome to sumit your work!</li>
+  <li>[MM/24] Happy to serve on NSF panel.</li>
+  <li>[03/24] Dr.Jiang received 2024 ISICN Outstanding Service Award.</li>
+  <li>[03/24] Sabrina presented our research outcome DynaDetect in conference ISICN 2024.</li>
+  <li>[03/24] Our work "Poster: Machine Learning Based False Position Detection Using Data-to-Image Transformation" is accepted by IEEE MOST 2024. Congrats Xian!</li>
+  <li>[01/24] Our paper "Detecting Data Poisoning Attacks with Dynamic KNN" is accepted by ISICN 2024! Congrats Sabrina!</li>
+  <li>[01/24] Our summer undergraduate research project is funded by SURGG grant (this project is collabrated with Dr. Yi Hua frorm Dept of Biomedical Engineering). Thanks ORSP@UM!</li>
+</ul>
+
+</details>
+
+
 ### 2023
 - [10/23] Congratulations Sabrina on winning the Three Minute Thesis (3MT) competition! 
 - [08/23] Welcome Shreyasi to join CAN lab!
