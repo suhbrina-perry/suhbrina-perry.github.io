@@ -35,7 +35,7 @@ author_profile: true
 <!-- - [01/25] Dr.Jiang attended NSF NeTS early-career PI meetings.-->
 
 <details>
- <summary>More</summary>
+ <summary>more</summary>
 
  ### 2024
 - [12/24] Dr. Jiang delivered an invited research talk "AI-driven Misbehavior Detection in IoV" @ SVCSI. <!--(https://www.svcsi.org/events-1/webinar-ai-driven-misbehavior-detection-in-iov-efficiency-distribution-and-transparency)-->
@@ -60,7 +60,6 @@ author_profile: true
 - [01/24] Our paper "Detecting Data Poisoning Attacks with Dynamic KNN" is accepted by ISICN 2024! Congrats Sabrina!
 - [01/24] Our summer undergraduate research project is funded by SURGG grant (this project is collabrated with Dr. Yi Hua frorm Dept of Biomedical Engineering). Thanks ORSP@UM!
 
-</details>  
 
 ### 2023
 
@@ -81,3 +80,4 @@ author_profile: true
 - [08/22] Welcome Sabrina to join CAN lab!
 - [08/22] The CAN lab is founded!
 
+</details>  
