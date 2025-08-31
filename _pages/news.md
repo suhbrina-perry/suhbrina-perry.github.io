@@ -17,6 +17,8 @@ author_profile: true
 - [05/25] Happy to serve on DoE Panel
 - [06/25] Happy to serve on NSF Panel (Epsore)
 -->
+- [08/25] Welcome Suriya to join CAN lab!
+- [08/25] Welcome Yuchen and Jimmy to join CAN lab!
 - [06/25] Dr. Jiang is invited to serve PC for Posters&Demos @ CCS 2025. Welcome to submit your work via [link](https://www.sigsac.org/ccs/CCS2025/call-for-posters-and-demos/)!
 - [05/25] Win the Best Poster Award in SecureTrans @ IEEE S&P 2025. Congrats!
 - [04/25] Sabrina Successfully defended her PhD dissertation. Congrats Sabrina!
