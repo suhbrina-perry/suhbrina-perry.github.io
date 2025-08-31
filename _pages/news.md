@@ -60,6 +60,7 @@ author_profile: true
 - [01/24] Our paper "Detecting Data Poisoning Attacks with Dynamic KNN" is accepted by ISICN 2024! Congrats Sabrina!
 - [01/24] Our summer undergraduate research project is funded by SURGG grant (this project is collabrated with Dr. Yi Hua frorm Dept of Biomedical Engineering). Thanks ORSP@UM!
 </details>
+
 ### 2023
 - [10/23] Congratulations Sabrina on winning the Three Minute Thesis (3MT) competition! 
 - [08/23] Welcome Shreyasi to join CAN lab!
