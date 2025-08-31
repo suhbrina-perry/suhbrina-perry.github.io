@@ -67,8 +67,7 @@ author_profile: true
 <details>
   <summary>more</summary>
 
-
-### 2024
+<b>2024<b>
 <ul>
   <li>[12/24] Dr. Jiang delivered an invited research talk "AI-driven Misbehavior Detection in IoV" @ SVCSI.</li>
   <li>[10/24] Our paper "DynaDetect2.0: Improving Detection Accuracy of Data Poisoning Attacks" is awarded the "Overall Best Paper" in IEEE CARS 2024! Congrats Sabrina and all our co-authors!</li>
