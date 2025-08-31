@@ -59,7 +59,7 @@ author_profile: true
 - [03/24] Our work "Poster: Machine Learning Based False Position Detection Using Data-to-Image Transformation" is accepted by IEEE MOST 2024. Congrats Xian! 
 - [01/24] Our paper "Detecting Data Poisoning Attacks with Dynamic KNN" is accepted by ISICN 2024! Congrats Sabrina!
 - [01/24] Our summer undergraduate research project is funded by SURGG grant (this project is collabrated with Dr. Yi Hua frorm Dept of Biomedical Engineering). Thanks ORSP@UM!
-
+</details>
 ### 2023
 - [10/23] Congratulations Sabrina on winning the Three Minute Thesis (3MT) competition! 
 - [08/23] Welcome Shreyasi to join CAN lab!
@@ -76,4 +76,4 @@ author_profile: true
 ### 2022
 - [08/22] Welcome Sabrina to join CAN lab!
 - [08/22] The CAN lab is founded!
-</details>  
+  
