@@ -33,7 +33,9 @@ author_profile: true
 - [02/25] Paper on defending backdoor attacks is accepted by ISICN25. Congrats Ziyang!
 - [01/25] Happy New Year!
 <!-- - [01/25] Dr.Jiang attended NSF NeTS early-career PI meetings.-->
-### 2024
+
+<details>
+ <summary>### 2024</summary>
 - [12/24] Dr. Jiang delivered an invited research talk "AI-driven Misbehavior Detection in IoV" @ SVCSI. <!--(https://www.svcsi.org/events-1/webinar-ai-driven-misbehavior-detection-in-iov-efficiency-distribution-and-transparency)-->
 - [10/24] Our paper "DynaDetect2.0: Improving Detection Accuracy of Data Poisoning Attacks" is awarded the "Overall Best Paper" in IEEE CARS 2024! Congrats Sabrina and all our co-authors!
 - [09/24] Dr. Jiang will serve as TP Co-chair for [ISICN2025](https://www.isicn.org/2025/). Welcome to submit your work!
@@ -55,7 +57,8 @@ author_profile: true
 - [03/24] Our work "Poster: Machine Learning Based False Position Detection Using Data-to-Image Transformation" is accepted by IEEE MOST 2024. Congrats Xian! 
 - [01/24] Our paper "Detecting Data Poisoning Attacks with Dynamic KNN" is accepted by ISICN 2024! Congrats Sabrina!
 - [01/24] Our summer undergraduate research project is funded by SURGG grant (this project is collabrated with Dr. Yi Hua frorm Dept of Biomedical Engineering). Thanks ORSP@UM!
-  
+</details>  
+
 ### 2023
 
 - [10/23] Congratulations Sabrina on winning the Three Minute Thesis (3MT) competition! 
