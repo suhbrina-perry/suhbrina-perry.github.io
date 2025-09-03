@@ -12,8 +12,10 @@ author_profile: true
 
 ### Courses at GSU
 
-- CSC 4222/6222 Fundamentals of Cybersecurity (24F)
+- CSC 4226/6226 Secure Software Engineering (25F)
 - CSC 8222 Network Security (25S)
+- CSC 4222/6222 Fundamentals of Cybersecurity (24F)
+
 
 <br/>
 
