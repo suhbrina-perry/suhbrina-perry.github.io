@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Lab Software and Dataset"
-permalink: /Lab Software and Dataset/
+permalink: /LabSoftwareAndDataset/
 author_profile: true
 ---
 
