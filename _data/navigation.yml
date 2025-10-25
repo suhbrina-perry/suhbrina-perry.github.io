@@ -17,8 +17,8 @@ main:
   - title: "Publications"
     url: /publications/
     
-  #- title: "Portfolio"
-  #  url: /portfolio/
+  - title: "Lab Software and Dataset"
+    url: /Lab Software and Dataset/
         
   #- title: "Blog Posts"
   #  url: /year-archive/
