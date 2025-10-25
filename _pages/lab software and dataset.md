@@ -12,4 +12,4 @@ author_profile: true
 
 
 ### BatchMDS
-Phase 1: [GitHub](https://github.com/Ann749/bookish-octo-journey.git)
+Phase 1: [Code in GitHub](https://github.com/Ann749/bookish-octo-journey.git)
