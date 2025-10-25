@@ -17,6 +17,10 @@ author_profile: true
 - [05/25] Happy to serve on DoE Panel
 - [06/25] Happy to serve on NSF Panel (Epsore)
 -->
+- [10/25] Work on IoV security is accepted by IEEE IoTJ. Congrats Xian!
+- [10/25] Work on malware analysis is accepted by IEEE TIFS. Congrats!
+- [09/25] Work on IoT security is accepted by SmartIoT 2025. Congrats!
+- [09/25] Work on AI security is accepted by HICSS-59. Congrats Sabrina!
 - [08/25] Welcome Suriya to join CAN lab!
 - [08/25] Welcome Yuchen and Jimmy to join CAN lab!
 - [06/25] Dr. Jiang is invited to serve PC for Posters&Demos @ CCS 2025. Welcome to submit your work via [link](https://www.sigsac.org/ccs/CCS2025/call-for-posters-and-demos/)!
